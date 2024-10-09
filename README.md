@@ -2,7 +2,7 @@
 ![](assets/example.png)
 
 #### Requirements:
-- Python 3.5+
+- Python 3.12.0
 - Tensorflow 2.0
 - NumPy
 - bidi-python
