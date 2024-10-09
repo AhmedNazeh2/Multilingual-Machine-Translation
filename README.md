@@ -3,7 +3,7 @@
 
 #### Requirements:
 - Python 3.12.0
-- Tensorflow 2.0
+- Tensorflow  2.17.0
 - NumPy
 - bidi-python
 - arabic_reshaper
