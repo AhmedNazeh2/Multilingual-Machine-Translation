@@ -8,6 +8,14 @@
 - bidi-python
 - arabic_reshaper
 - unicodedata
+- janome_tokenizer
+- bleu_score
+- MarianMTModel
+- MarianTokenizer
+- M2M100ForConditionalGeneration
+- M2M100Tokenizer
+- detect and DetectorFactory
+
 
 #### Introduction
 Google Neural Machine Translation system (GNMT), which utilizes state-of-the-art training techniques to achieve the largest improvements to date for machine translation quality.
