@@ -15,6 +15,8 @@
 - M2M100ForConditionalGeneration
 - M2M100Tokenizer
 - detect and DetectorFactory
+- Fastapi
+- Stremlit
 
 
 #### Introduction
